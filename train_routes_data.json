@@ -1,0 +1,119 @@
+[
+  {
+    "trainNumber": "701",
+    "trainName": "Subarna Express",
+    "runDays": ["Saturday", "Sunday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "stops": [
+      { "stationName": "Chattogram", "departureTime": "07:00" },
+      { "stationName": "Dhaka Airport", "arrivalTime": "11:42", "departureTime": "11:45" },
+      { "stationName": "Dhaka", "arrivalTime": "12:20" }
+    ]
+  },
+  {
+    "trainNumber": "702",
+    "trainName": "Subarna Express",
+    "runDays": ["Saturday", "Sunday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "stops": [
+      { "stationName": "Dhaka", "departureTime": "16:30" },
+      { "stationName": "Dhaka Airport", "arrivalTime": "17:02", "departureTime": "17:05" },
+      { "stationName": "Chattogram", "arrivalTime": "21:50" }
+    ]
+  },
+  {
+    "trainNumber": "705",
+    "trainName": "Ekota Express",
+    "runDays": ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "stops": [
+      { "stationName": "Dhaka", "departureTime": "10:15" },
+      { "stationName": "Biman Bandar", "arrivalTime": "10:43", "departureTime": "10:48" },
+      { "stationName": "Joydebpur", "arrivalTime": "11:27", "departureTime": "11:32" },
+      { "stationName": "Tangail", "arrivalTime": "12:35", "departureTime": "12:38" },
+      { "stationName": "Ishurdi Bypass", "arrivalTime": "15:20", "departureTime": "15:40" },
+      { "stationName": "Natore", "arrivalTime": "16:34", "departureTime": "16:37" },
+      { "stationName": "Santahar", "arrivalTime": "17:35", "departureTime": "17:40" },
+      { "stationName": "Joypurhat", "arrivalTime": "18:23", "departureTime": "18:25" },
+      { "stationName": "Parbatipur", "arrivalTime": "19:25", "departureTime": "19:45" },
+      { "stationName": "Dinajpur", "arrivalTime": "20:20", "departureTime": "20:25" },
+      { "stationName": "Panchagarh", "arrivalTime": "21:50" }
+    ]
+  },
+  {
+    "trainNumber": "706",
+    "trainName": "Ekota Express",
+    "runDays": ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+    "stops": [
+        {"stationName": "Panchagarh", "departureTime": "21:10"},
+        {"stationName": "Dinajpur", "arrivalTime": "22:45", "departureTime": "22:55"},
+        {"stationName": "Parbatipur", "arrivalTime": "23:35", "departureTime": "23:55"},
+        {"stationName": "Joypurhat", "arrivalTime": "00:52", "departureTime": "00:54"},
+        {"stationName": "Santahar", "arrivalTime": "01:45", "departureTime": "01:50"},
+        {"stationName": "Natore", "arrivalTime": "02:45", "departureTime": "02:47"},
+        {"stationName": "Ishurdi Junction", "arrivalTime": "04:15", "departureTime": "04:35"},
+        {"stationName": "Tangail", "arrivalTime": "06:33", "departureTime": "06:36"},
+        {"stationName": "Joydebpur", "arrivalTime": "07:54", "departureTime": "07:57"},
+        {"stationName": "Biman Bandar", "arrivalTime": "08:32", "departureTime": "08:35"},
+        {"stationName": "Dhaka", "arrivalTime": "09:00"}
+    ]
+  },
+  {
+    "trainNumber": "709",
+    "trainName": "Parabat Express",
+    "runDays": ["Saturday", "Sunday", "Monday", "Wednesday", "Thursday", "Friday"],
+    "stops": [
+        { "stationName": "Dhaka", "departureTime": "06:35" },
+        { "stationName": "Biman Bandar", "arrivalTime": "07:04", "departureTime": "07:09" },
+        { "stationName": "Bhairab Bazar", "arrivalTime": "08:52", "departureTime": "08:54" },
+        { "stationName": "Brahmanbaria", "arrivalTime": "09:18", "departureTime": "09:21" },
+        { "stationName": "Azampur", "arrivalTime": "09:50", "departureTime": "09:52" },
+        { "stationName": "Shaestagonj", "arrivalTime": "10:52", "departureTime": "11:02" },
+        { "stationName": "Sreemangal", "arrivalTime": "11:53", "departureTime": "11:58" },
+        { "stationName": "Kulaura", "arrivalTime": "12:37", "departureTime": "12:42" },
+        { "stationName": "Maizgaon", "arrivalTime": "13:20", "departureTime": "13:22" },
+        { "stationName": "Sylhet", "arrivalTime": "14:00" }
+    ]
+  },
+  {
+    "trainNumber": "710",
+    "trainName": "Parabat Express",
+    "runDays": ["Saturday", "Sunday", "Monday", "Wednesday", "Thursday", "Friday"],
+    "stops": [
+        {"stationName": "Sylhet", "departureTime": "15:45"},
+        {"stationName": "Maizgaon", "arrivalTime": "16:20", "departureTime": "16:22"},
+        {"stationName": "Kulaura", "arrivalTime": "17:00", "departureTime": "17:05"},
+        {"stationName": "Sreemangal", "arrivalTime": "17:43", "departureTime": "17:48"},
+        {"stationName": "Shaestagonj", "arrivalTime": "18:35", "departureTime": "18:40"},
+        {"stationName": "Azampur", "arrivalTime": "19:33", "departureTime": "19:35"},
+        {"stationName": "Brahmanbaria", "arrivalTime": "20:05", "departureTime": "20:07"},
+        {"stationName": "Bhairab Bazar", "arrivalTime": "20:35", "departureTime": "20:37"},
+        {"stationName": "Dhaka Airport", "arrivalTime": "22:15", "departureTime": "22:18"},
+        {"stationName": "Dhaka", "arrivalTime": "22:50"}
+    ]
+  },
+  {
+    "trainNumber": "788",
+    "trainName": "Sonar Bangla Express",
+    "route": "Dhaka - Chattogram",
+    "weeklyHoliday": "Wednesday",
+    "stations": [
+      {
+        "stationNo": 1,
+        "stationName": "Dhaka",
+        "arrivalTime": null,
+        "departureTime": "7:00 AM"
+      },
+      {
+        "stationNo": 2,
+        "stationName": "Biman Bandar",
+        "arrivalTime": "7:22 AM",
+        "departureTime": "7:24 AM"
+      },
+      {
+        "stationNo": 3,
+        "stationName": "Chattogram",
+        "arrivalTime": "11:55 AM",
+        "departureTime": null
+      }
+    ],
+    "searchKeywords": ["Dhaka", "Biman Bandar","Bhairab Bazar Junction","Chattogram"]
+  }
+]
