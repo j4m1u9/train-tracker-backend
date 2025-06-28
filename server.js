@@ -7,7 +7,10 @@ dotenv.config();
 
 const app = express();
 app.use(express.json());
-
+// Health Check Route for Render
+app.get('/', (req, res) => {
+  res.status(200).send('Server is live and running!');
+});
 // Routes
 app.use('/api/train', trainRoutes);
 
